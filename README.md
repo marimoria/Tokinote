@@ -19,4 +19,4 @@ This application has just started development and is still in UI/UX designing ph
 <img src="https://github.com/user-attachments/assets/c2e46f8a-5de1-4f42-8aa9-6e44c165ce5c" style="width: 250px; height: auto;" />
 
 ## ⭐ Acknowledgement
-- This project is made sincerely by @marimoria & @BukanRado
+- This project is made sincerely by @marimoria & @brknzzz
